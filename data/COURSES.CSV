@@ -1,0 +1,10 @@
+CS101,ICT,3,NULL,elective,1,200001
+CS201,Data Structures and Algorithms,3,CS101,elective,2,200001
+DS101,Introduction to Data Science,3,NULL,elective,1,200002
+DS201,Machine Learning,3,DS101,elective,2,200002
+AI101,Artificial Intelligence,3,NULL,elective,1,210001
+AI201,Deep Learning,3,AI101,assigned,2,210001
+CYS101,Introduction to Cybersecurity,3,NULL,assigned,1,210002
+CYS201,Network Security,3,CYS101,assigned,2,210002
+CS501,Advanced Algorithms,3,CS201,assigned,5,220003
+DS501,Big Data Analytics,3,DS201,assigned,5,220004
